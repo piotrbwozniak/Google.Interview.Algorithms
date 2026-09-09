@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HashMap/HashMap.csproj" />
+  <Project Path="TwoSum/TwoSum.csproj" />
+</Solution>
